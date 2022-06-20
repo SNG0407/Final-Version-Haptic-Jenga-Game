@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61837c74f7282934a972a7262d27b55a, type: 3}
+  m_Name: New Haptic Material
+  m_EditorClassIdentifier: 
+  HasSurface: 1
+  Stiffness: 1
+  StaticFriction: 0
+  DynamicFriction: 0
+  MagneticForce: 0
+  MagneticDistance: 0
+  TextureLevel: 0.3
+  textureImage: {fileID: 0}
+  ReverseTexture: 0
+  Viscosity: 0
+  SticksplipStiffness: 0
+  SticksplipForce: 0
+  VibrationFreq: 0
+  VibrationAmplitude: 0
